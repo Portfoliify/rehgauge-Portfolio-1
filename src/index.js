@@ -41,8 +41,8 @@ const Index = () => {
 
   //Content
 
-        const insta = "";
-        const mail = "";
+        const insta = "sample.com";
+        const mail = "sample@host.com";
         const linkedIn = "";
         const para = "Hi I’m Daniel Aristizábal, but call me Dani. I work as an art director and digital artist working across the fields of arts, fashion and entertainment, bringing forward new technologies to create stunning and inspiring artworks";
 //Content
